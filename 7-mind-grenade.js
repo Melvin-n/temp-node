@@ -8,4 +8,4 @@ function add() {
 console.log(add())
 
 //when you import a module, you INVOKE it as well. that's why you assign it to a variable initally
-//thought the option is there to invoke it if you do not assign it to a variable
+//though the option is there to invoke it if you do not assign it to a variable
